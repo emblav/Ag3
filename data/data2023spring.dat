@@ -36,6 +36,8 @@ STAT 669 12 0 664897 192202 664567 192110 117 31  #  Híft e 3,3 sml, snúið á
 STAT 669 4 0 664059 191357 663817 191556 99 31  #  híft eftir 2,5 sjm tók í b.b hlera \\ botndypi_kastad= 335 botndypi_hift= 292 \\
 STAT 669 11 0 663378 192192 662990 192406 132 30  #   \\ botndypi_kastad= 309 botndypi_hift= 306 \\
 PORT 661066 185279 "Siglufjörður" 1 
+PORT 661066 185279 "Siglufjörður" 1 
+PORT 661066 185279 "Siglufjörður" 1 
 STAT 668 11 0 663036 183571 663413 183263 266 23  #   \\ botndypi_kastad= 225 botndypi_hift= 218 \\
 STAT 668 5 0 663498 182414 663892 182498 161 20  #   \\ botndypi_kastad= 182 botndypi_hift= 182 \\
 STAT 668 4 0 664222 183049 664515 182371 356 26  #   \\ botndypi_kastad= 266 botndypi_hift= 249 \\
@@ -54,7 +56,6 @@ STAT 618 3 0 662992 182173 662594 182227 345 17  #   \\ botndypi_kastad= 158 bot
 STAT 618 12 0 662685 180744 662393 181418 347 12  #   \\ botndypi_kastad= 72 botndypi_hift= 75 \\
 STAT 618 11 0 662406 182710 662004 182704 617 18  #   \\ botndypi_kastad= 141 botndypi_hift= 189 \\
 STAT 618 2 0 661825 182375 661502 181807 579 20  #   \\ botndypi_kastad= 178 botndypi_hift= 175 \\
-PORT 653997 180365 "Akureyri" 1
 STAT 568 1 0 655812 181624 660168 182054 657 14  #   \\ botndypi_kastad= 102 botndypi_hift= 113 \\
 STAT 618 13 0 660923 182452 660544 182157 47 16  #   \\ botndypi_kastad= 138 botndypi_hift= 105 \\
 STAT 617 11 0 661371 174491 660983 174276 320 19  #   \\ botndypi_kastad= 157 botndypi_hift= 213 \\
@@ -97,7 +98,6 @@ STAT 670 15 0 663400 204281 663010 204201 532 31  #   \\ botndypi_kastad= 327 bo
 STAT 621 1 0 663041 210090 662698 210592 198 20  #   \\ botndypi_kastad= 183 botndypi_hift= 166 \\
 STAT 621 4 0 662032 212054 662390 212484 548 14  #   \\ botndypi_kastad= 110 botndypi_hift= 107 \\
 STAT 621 2 0 662463 211585 662828 211987 677 20  #   \\ botndypi_kastad= 173 botndypi_hift= 182 \\
-PORT 660489 230673 "Ísafjörður" 1
 STAT 624 5 0 660810 241262 660421 241466 1699 10  #   \\ botndypi_kastad= 62 botndypi_hift= 49 \\
 STAT 573 11 0 654911 235448 655235 240013 319 10  #   \\ botndypi_kastad= 58 botndypi_hift= 48 \\
 STAT 574 36 0 654050 241705 653931 241043 86 9  #  Mikið af krossfisk \\ botndypi_kastad= 31 botndypi_hift= 50 \\
